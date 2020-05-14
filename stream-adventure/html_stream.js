@@ -1,5 +1,5 @@
 'use strict'
-const trumpet = require('trumpet');
+const trumpet = require('node-trumpet2');
 const through = require('through2');
 const tr = trumpet();
 
